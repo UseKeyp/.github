@@ -9,4 +9,3 @@ If you'd like to join our team please let us know. Happy hacking!
 
 - Website: https://usekeyp.com
 - Twitter: [@UseKeyp](https://twitter.com/UseKeyp)
-- GitHub: [@UseKeyp](https://github.com/UseKeyp)

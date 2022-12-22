@@ -7,5 +7,5 @@
 
 If you'd like to join our team please let us know. Happy hacking!
 
-- Website: https://usekeyp.com
+- Website: https://UseKeyp.com
 - Twitter: [@UseKeyp](https://twitter.com/UseKeyp)

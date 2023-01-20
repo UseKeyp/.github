@@ -3,7 +3,6 @@ LABEL_GROUPS:
     low-priority:
       color: BBC387
       description: ""
-  dev:
     priority:
       description: ""
       color: ffd700
@@ -85,23 +84,4 @@ LABEL_GROUPS:
     ch-20:
       color: 6D9EEB
       description: ""
-REPOS:
-  keyp-app:
-    - dev
-  keyp-dev-portal:
-    - dev
-  keyp-oauth2-server:
-    - dev
-  keyp-frontend-components:
-    - dev
-  keyp-public-api:
-    - dev
-  template-internal-repo:
-    - dev
-  keyp-candidate-practice:
-    - dev
-  my-earthly-example-solution:
-    - dev
-  hackMD-internal:
-    - dev
 

@@ -1,0 +1,16 @@
+name: manage-your-labels
+on:
+  schedule:
+    - cron: "0 23 * * *"
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+jobs:
+  mirror-labels:
+    runs-on: ubuntu-latest
+    env:
+      BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+    name: manage-your-labels
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions-automation/manage-your-labels@main

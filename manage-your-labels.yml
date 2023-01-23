@@ -1,0 +1,87 @@
+LABEL_GROUPS:
+  DEFAULT:
+    low-priority:
+      color: BBC387
+      description: ""
+    priority:
+      description: ""
+      color: ffd700
+    1 pt:
+      description: ""
+      color: 480FAE
+    2 pt:
+      color: 638ECA
+      description: ""
+    1/2 pt:
+      color: 78D250
+      description: ""
+    web:
+      color: 5BB9AF
+      description: ""
+    api:
+      color: AB93D8
+      description: ""
+    dependency change:
+      color: 98E219
+      description: ""
+    ch-1:
+      color: 99ff33
+      description: ""
+    ch-2:
+      color: b60205
+      description: ""
+    ch-3:
+      color: 3FF3F6
+      description: ""
+    ch-4:
+      color: CE7E00
+      description: ""
+    ch-5:
+      color: 00B0F0
+      description: ""
+    ch-6:
+      color: 38761d
+      description: ""
+    ch-7:
+      color: 990000
+      description: ""
+    ch-8:
+      color: 4C1130
+      description: ""
+    ch-9:
+      color: 00B050
+      description: ""
+    ch-10:
+      color: 6FA8DC
+      description: ""
+    ch-11:
+      color: C27BA0
+      description: ""
+    ch-12:
+      color: EA9999
+      description: ""
+    ch-13:
+      color: 6AA84F
+      description: ""
+    ch-14:
+      color: f4CCCC
+      description: ""
+    ch-15:
+      color: 93C47D
+      description: ""
+    ch-16:
+      color: 76A5AF
+      description: ""
+    ch-17:
+      color: 6D9EEB
+      description: ""
+    ch-18:
+      color: 6FA8DC
+      description: ""
+    ch-19:
+      color: 8E7CC3
+      description: ""
+    ch-20:
+      color: 6D9EEB
+      description: ""
+

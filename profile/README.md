@@ -9,7 +9,7 @@
 We have several repositories listed below you can contribute to or use in your next project!<br />
 
 If you're interested in building the best Web3 onboarding experience for games and applications, we're looking for
-full-time contributors to help us build Keyp. If you're interested in joining our team please see our [hiring page](https://angel.co/company/usekeyp). Happy
+full-time contributors to help us build Keyp. If you're interested in joining our team please see our [hiring page](https://UseKeyp.com/jobs). Happy
 hacking!
 
 ### Keyp Tools:

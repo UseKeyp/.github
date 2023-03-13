@@ -1,5 +1,8 @@
 LABEL_GROUPS:
   DEFAULT:
+    security:
+      color: ff9913
+      description: ""
     research:
       color: 0E8A16
       description: ""

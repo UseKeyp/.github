@@ -1,5 +1,8 @@
 LABEL_GROUPS:
   DEFAULT:
+    research:
+      color: 0E8A16
+      description: ""
     low-priority:
       color: BBC387
       description: ""
@@ -84,4 +87,4 @@ LABEL_GROUPS:
     ch-20:
       color: 6D9EEB
       description: ""
-REPOS: { }
+REPOS: {}

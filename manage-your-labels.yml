@@ -90,4 +90,7 @@ LABEL_GROUPS:
     ch-20:
       color: 6D9EEB
       description: ""
+    planning:
+      color: 743A2A
+      description: ""
 REPOS: {}

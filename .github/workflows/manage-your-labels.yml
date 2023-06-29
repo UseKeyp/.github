@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       # Create a classic token with permissions: repo and write:org
-      BOT_TOKEN: ${{ secrets.PAT }}
+      BOT_TOKEN: ${{ secrets.NPM_PAT }}
     name: manage-your-labels
     steps:
       - uses: actions/checkout@v3
